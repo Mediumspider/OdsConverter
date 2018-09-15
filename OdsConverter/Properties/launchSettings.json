@@ -2,7 +2,7 @@
   "profiles": {
     "OdsConverter": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Program Files\\LibreOffice\\program\\scalc.exe\" \"D:\\Arbejde\" \"D:\\tmp\""
+      "commandLineArgs": "\"C:\\Program Files\\LibreOffice\\program\\scalc.exe\" \"C:\\Users\\Ejer\\Dropbox\\Files to conve\" \"C:\\Users\\Ejer\\Dropbox\\Files to conve\\converted\""
     }
   }
 }
