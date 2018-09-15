@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OdsConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files\\LibreOffice\\program\\scalc.exe\" \"D:\\Arbejde\" \"D:\\tmp\""
+    }
+  }
+}
